@@ -1,7 +1,7 @@
 # Led Alarm
 
 ```
-% git clone ----
+% git clone https://github.com/furuya02/led-alarm.git
 % cd led-alarm
 ```
 
